@@ -1,3 +1,1 @@
-readme b
-
-readme a
+branch b
