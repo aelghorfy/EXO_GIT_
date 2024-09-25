@@ -60,5 +60,5 @@ Git merge branch-a
 20/ mergez la branche b sur master 
 Git merge branch-b
 21/ essayez de resoudre le conflit ...
-Interface, resolution conflit>accept incoming changes
-Le conflit est résolu cependant je n’ai pas essayer d’autres méthodes
+git mergetool>Interface, resolution conflit>accept incoming changes
+Le conflit semble "résolu" cependant je n’ai pas trouver/essayer d’autres méthodes
