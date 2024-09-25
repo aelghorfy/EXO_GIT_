@@ -10,6 +10,7 @@ Touch <nom fichier> (sur la consol wsl) ou « New-Item -Path .\nom.fichier -Item
 Git commit -m ‘’message’’
 5/ créer une branche "dev"
 Git checkout -b dev
+
 6/ lister les branches
 Git branch
 7/ se positionner sur la branche dev
